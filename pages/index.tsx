@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">CodeSandbox Projects!</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,9 +23,9 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://docs.codesandbox.io/our-products/codesandbox-projects" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about CodeSandbox Projects features</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
