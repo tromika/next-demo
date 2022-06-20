@@ -30,7 +30,7 @@
       "runAtStart": false
     },
     "ls -ls": {
-      "name": "ls -ls",
+      "name": "command",
       "command": "ls -ls"
     }
   }
